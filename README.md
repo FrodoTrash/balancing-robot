@@ -10,3 +10,4 @@
 
 #Features
 * hold position
+* calibrate
